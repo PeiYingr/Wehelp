@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Wehelp 第三屆申請書</title>
+</head>
+<body background="456.jpg">
+    <h1 align="center"><font color="MistyRose">✿ Wehelp 第三屆申請書 ✿</font></h1>
+    <hr size="5" width="1500" color="MistyRose"/></br>
+    <table border="1"  align="center" cellpadding="15" height="50" bgcolor="Lavender"> 
+        <tr><td width="800" align="center"><B>兩百字內的個人簡介。</B></td></tr>
+        <tr><td align="center">我是盧佩瑩，畢業於台北醫學大學保健營養學系</td></tr>
+    </table></br>
+    <table border="1"  align="center"  cellpadding="15" height="50" bgcolor="Lavender" >
+        <tr><td width="800" align="center"><B>為了成為軟體工程師，曾做過什麼努力？</B></td></tr>
+        <tr><td align="center">還沒，正在努力中</td></tr>
+    </table></br>
+    <table border="1"  align="center" cellpadding="15" height="50" bgcolor="Lavender">
+        <tr><td width="800" align="center"><B>如果參與這個計畫，會怎麼安排學習時間？</B></td></tr>
+        <tr><td align="center">就一直念念念</td></tr>
+    </table></br>
+    <table border="1" align="center"  cellpadding="15" height="50" bgcolor="Lavender">
+        <tr><td width="800" align="center"><B>是否有想要加入的軟體公司？為什麼想加入該公司？</B></td></tr>
+        <tr><td align="center">都還好，希望能當上工程師就好</td></tr>
+    </table></br>
+    <table border="1" align="center" cellpadding="15" height="50" bgcolor="Lavender">
+        <tr><td width="800" align="center"><B>請描述一件你曾經碰到最困難的事情，如何克服？</B></td</tr>
+        <tr><td afone lign="center">一開始以為自己知道自己想讀什麼就跑去考轉學考，後來國考也順利考上營養師了，發現賺不到什麼錢也不開心。
+            所以下定決心開始學習其他領域的東西想克服，順便找到自己有興趣又能養活自己的工作。</td></tr>
+    </table></br>
+    <table border="1" align="center"  cellpadding="15" height="50" bgcolor="Lavender">
+        <tr><td width="800" align="center"><B>關於這份申請網頁，請分享一個你開發時的技術心得。</B></td></tr>
+        <tr><td align="center">發現自己製作網頁超有趣，也很有成就感，但也會很想知道到底要怎樣才能減少使用這麼多標籤。
+        </br>(感覺就會有很多方法可以省略!)也很想學習如何裝飾美編自己做的網頁!</td></tr>
+    </table></br>
+   <table border="1" align="center" cellpadding="15" height="50" bgcolor="Lavender">
+    <tr><td width="800" align="center"><B>從上次提出申請至今，多做了哪些努力？( 第一次申請不用回答 )</B></td></tr>
+    <tr><td align="center">第一次申請!</td></tr>
+   </table></br>
+   <table border="1"  align="center" cellpadding="15" height="50" bgcolor="Lavender">
+    <tr><td width="800" align="center"><B>其他想要對我們說的事情？</B></td></tr>
+    <tr><td align="center">謝謝幫助想學程式以及想成為工程師的人們。</td></tr>
+    </table>
+</body>
+</html>
